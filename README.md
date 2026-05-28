@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Abdelnasser Hamouda</h1>
+<h1 align="center">Hi there , I'm Abdelnasser Hamouda</h1>
 <h3 align="center">Data Analyst | Python • SQL • Power BI • Tableau • Excel</h3>
 
 <p align="center">
